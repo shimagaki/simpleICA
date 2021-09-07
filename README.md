@@ -1,1 +1,1 @@
-# myICA
+# simple gradient based ICA
